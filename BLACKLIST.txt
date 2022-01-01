@@ -1,8 +1,5 @@
 ##### BLACKLIST ENHANCEMENT FEATURE #####
 
 Caller      Callee
-2000      1989
-2001      1989
 2002      1989
 2002      2001
-2003      2001

@@ -108,7 +108,7 @@ delete_for_someone()
                 case $yn in
                     [Yy]* ) delete_a_number_for_someone
                             break ;;
-                    [Nn]* )
+                    [Nn]* ) modify_menu
                             break ;;
                         * ) echo "Please answer yes or no." ;;
                 esac
@@ -157,7 +157,7 @@ delete_option()
                 case $yn in
                     [Yy]* ) delete_a_pair
                             break ;;
-                    [Nn]* )
+                    [Nn]* ) delete_for_someone
                             break ;;
                         * ) echo "Please answer yes or no." ;;
                 esac
