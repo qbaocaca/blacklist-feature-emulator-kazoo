@@ -36,7 +36,7 @@
 
     1> c(rotate_log).
     {ok,rotate_log}
-    2> rotate_log:count_dir_character("C:/Users/DELL/OneDrive/Desktop/blacklist/black_list_log").
+    2> rotate_log:count_dir_character().
     56
 
 &nbsp;

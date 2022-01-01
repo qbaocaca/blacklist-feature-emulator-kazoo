@@ -10,7 +10,7 @@
 
 ### eg. configure a default folder and a default callee number in these lines:
 
-### 15, 48, 143, 267, 479, 560, 574, 643, 678, 689
+### 15, 49, 144, 272, 573, 587, 656, 718, 755, 766
 
 &nbsp;
 
