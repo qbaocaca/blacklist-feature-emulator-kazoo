@@ -6,7 +6,7 @@ pretty much what you need.
 - A black_list_status file show the status on/off of the blacklist feature.
 - A blacklist to store the extension number you or somebody else wants to block.
 - A call_log_file to log both successful and blocked calls. (This is pretty
-  much a txt file that has other special operations).
+  much a txt file that has no other special operations).
 
 In order to use this, make sure you know a bit of Erlang and Bash shell
 scripting to use them along.
@@ -30,7 +30,7 @@ _If 1989 was not blocked by 2001, the result shows:_
 _Pretend to modify a file and type n to exit. Check out the script usage for
 more information. To turn it on again, pretend to modify a file and type z._
 
-### To create a default blacklist and add a number.
+### To create a default blacklist.
 
     ./blacklist-script.sh
 
